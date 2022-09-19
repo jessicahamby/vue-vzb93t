@@ -8,7 +8,17 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^3.2.26"
+    "binance": "2.0.38",
+    "events": "^3.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.21.0",
+    "react-route": "^1.0.2",
+    "react-router-dom": "^6.4.0",
+    "react-router-dom'": "*",
+    "splash": "^0.3.0",
+    "stylus": "0.59.0",
+    "vue": "3.2.39"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.4.0",
